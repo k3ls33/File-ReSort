@@ -1,0 +1,36 @@
+.editor {
+	background-color:#c7d7eb;
+	display: flex;
+	gap: 16px;
+	justify-content: center;
+	height: 100%;
+}
+
+.tagList {
+	display: block;
+	height: 300px;
+	overflow-y: scroll;
+}
+
+.txtContainer {
+	margin: 16px;
+	margin-right: 0;
+	padding: 15px;
+	width: 60%;
+	max-width: 1000px;
+	background-color:#fff;
+	border: 2px solid #8fa8c7;
+}
+
+.options {
+	margin: 16px;
+	margin-left: 0;
+	background-color:#fff;
+	width: 500px;
+	padding: 10px;
+	border: 2px solid #81a2cb;
+}
+
+.section {
+	padding: 10px 16px;
+}

@@ -1,0 +1,28 @@
+.Continue {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Inner {
+    height: 260px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.Title {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: bold;
+    color: #000;
+}
+
+.UploadContainer {
+    margin: auto;
+    margin-top: 80px;
+    background-color: #fff;
+    font-family: 'Public Sans', sans-serif;
+    padding: 60px 60px;
+    width: 680px;
+    border: 2px solid #8fa8c7;
+}
+

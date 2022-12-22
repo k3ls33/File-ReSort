@@ -1,0 +1,13 @@
+.table {
+	width: 100%;
+	border-color: #000000;
+	table-layout: auto;
+}
+
+.tableRow:nth-child(even) {
+	background-color: #dddddd5d;
+}
+
+.link {
+	text-decoration: none;
+}

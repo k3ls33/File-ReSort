@@ -1,0 +1,70 @@
+.container {
+	height: 100vh;
+}
+
+.title {
+	font-family: 'Wellfleet';
+	font-size: 40px;
+	color: #000;
+}
+
+.HomeHeader {
+	display: flex;
+	padding-bottom: 18px;
+	border-bottom: 2px solid #000;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+	margin: 15px 5px 0;
+}
+
+.MainContent {
+	padding-left: 20px;
+	padding-right: 20px;
+	height:max-content;
+	overflow-y: scroll;
+}
+
+.HomeNav {
+	border-right: 2px solid #000000;
+	height: 100%;
+	width: 40%;
+	max-width: 480px;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.NonNav {
+	margin-left: 255px;
+}
+
+.navItem {
+	margin-top: 5rem;
+}
+
+.title {
+	padding-left: 1rem;
+}
+
+.logoLink {
+	text-decoration: none;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+
+.logoLink:hover {
+	text-decoration: none;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+
+.rules {
+	margin-left: 255px;
+}
